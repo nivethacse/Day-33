@@ -1,0 +1,112 @@
+[{
+		"brand": "Maserati",
+		"modal": "MC20",
+		"description": "Maserati’s 2021 MC20 mid-engine sports car has a 630-hp twin-turbo V-6 – for now; in the future, we can expect an all-electric version of this two-seater coupe. Maserati has teamed up with an expert motorsport engineering company to build the MC20, giving it a carbon-fiber structure and aluminum subframes that feel light as a feather – and strong as iron.",
+		"engine": "V-6 engine",
+		"bodystyle": "2-door coupé",
+		"classtype": "Sports car",
+		"price": "$200,000",
+		"url": "https://montenapodaily.com/wp-content/uploads/2021/01/maserati-1170x658.jpg"
+	}, {
+		"brand": "Bentley",
+		"modal": "Flying Spur Speed",
+		"description": "With the expansive grille and retro-nostalgic four-headlight aesthetic that makes a Bentley a Bentley, the 2021 Flying Spur Speed is instantly recognizable. This supercar brings style and comfort to the six-figure auto industry; its cabin, unlike many performance-focused vehicles, is decked out in sumptuous leather, highly-polished wood, and glinting metal accents (now, with a top-of-the-line infotainment centre, as well).",
+		"engine": "W12 twin-turbo",
+		"bodystyle": "4-door saloon",
+		"classtype": "Full-size luxury car",
+		"price": "$215,000",
+		"url": "https://cdn.luxe.digital/media/2020/12/16175731/most-expensive-cars-2021-Bentley-Flying-Spur-Speed-luxe-digital%402x.jpg"
+	},
+
+	{
+		"brand": "Aston Martin",
+		"modal": "Lagonda EV",
+		"description": "The Aston Martin Lagonda is a full-size luxury four-door saloon manufactured by British manufacturer Aston Martin between 1974 and 1990. A total of 645 were produced. The name was derived from the Lagonda marque that Aston Martin had purchased in 1947. There are two distinct generations, the original, the short lived 1974 design based on a lengthened Aston Martin V8, and the entirely redesigned, wedge-shaped Series 2 model introduced in 1976.",
+		"engine": "V8 engine",
+		"bodystyle": "4-door saloon",
+		"classtype": "Full-size luxury car",
+		"price": "$250,000",
+		"url": "https://cdn.luxe.digital/media/2020/12/16175720/most-expensive-cars-2021-Aston-Martin-Lagonda-EV-luxe-digital%402x.jpg"
+	},
+
+	{
+		"brand": "Rolls Royce",
+		"modal": "Ghost",
+		"description": "The Rolls-Royce Ghost is a full-sized luxury car manufactured by Rolls-Royce Motor Cars. The Ghost nameplate, named in honour of the Silver Ghost, a car first produced in 1906, was announced in April 2009 at the Auto Shanghai show. The production model was officially unveiled at the 2009 Frankfurt Motor Show. The Ghost Extended Wheelbase was introduced in 2011. ",
+		"engine": "V12-T engine",
+		"bodystyle": "4-door saloon",
+		"classtype": "Full-size luxury car",
+		"price": "$315,000",
+		"url": "https://cdn.luxe.digital/media/2020/12/16175842/most-expensive-cars-2021-Rolls-Royce-Ghost-luxe-digital%402x.jpg"
+	},
+
+	{
+		"brand": "Mercedes",
+		"modal": "AMG One",
+		"description": "The Mercedes-AMG One (R50, stylized as ONE) is an upcoming limited-production plug-in hybrid sports car manufactured by Mercedes-AMG, featuring Formula One-derived technology.[4][5] It was unveiled at the 2017 International Motor Show Germany by Mercedes-AMG Petronas F1 driver Lewis Hamilton and Head of Mercedes-Benz Dieter Zetsche.",
+		"engine": "E-turbo V6",
+		"bodystyle": "2-door coupe",
+		"classtype": "Sports car",
+		"price": "$2,700,000",
+		"url": "https://cdn.luxe.digital/media/2020/12/16175826/most-expensive-cars-2021-Mercedes-AMG-One-luxe-digital%402x.jpg"
+	},
+
+	{
+		"brand": "Koenigsegg",
+		"modal": "Jesko",
+		"description": "The Koenigsegg Jesko is a limited production mid-engine sports car produced by Swedish automobile manufacturer Koenigsegg. Introduced at the 2019 Geneva Motor Show, the car succeeds the Agera. The name Jesko is a tribute to the company founder's father, Jesko von Koenigsegg.",
+		"engine": "V8 engine",
+		"bodystyle": "2-door targa top",
+		"classtype": "Sports car",
+		"price": "$3,000,000",
+		"url": "https://cdn.luxe.digital/media/2020/12/16175806/most-expensive-cars-2021-Koenigsegg-Jesko-luxe-digital%402x.jpg"
+	},
+
+	{
+		"brand": "Bugatti",
+		"modal": "Chiron Super Sport",
+		"description": "The Bugatti Chiron is a mid-engine two-seater sports car designed and developed in Germany by Bugatti Engineering GmbH[6] and manufactured in Molsheim, France by French automobile manufacturer Bugatti Automobiles S.A.S. The successor to the Bugatti Veyron,[7] the Chiron was first shown at the Geneva Motor Show on 1 March 2016.",
+		"engine": "V10 engine",
+		"bodystyle": "2-door coupe",
+		"classtype": "Sports car",
+		"price": "$5,740,000",
+		"url": "https://cdn.luxe.digital/media/2020/12/16175741/most-expensive-cars-2021-Bugatti-Chiron-Super-Sport-300-luxe-digital%402x.jpg"
+	},
+
+	{
+		"brand": "Pagani",
+		"modal": "Zonda HP Barchetta",
+		"description": "The Pagani Zonda is a mid-engine sports car produced by the Italian sports car manufacturer Pagani. It debuted at the 1999 Geneva Motor Show. By 2019, a total of 140 cars had been built, including development mules. Both 2-door coupé and roadster variants have been produced along with a third new variant being the barchetta. Construction is mainly of carbon fibre.",
+		"engine": "V12 engine",
+		"bodystyle": "2-door berlinetta, 2-door roadster, 2-door barchetta",
+		"classtype": "Sports car",
+		"price": "$17,600,000",
+		"url": "https://gujunews.in/wp-content/uploads/2018/07/Pagani-Zonda-HP-Barchetta2.jpg"
+	},
+
+	{
+		"brand": "Bugatti",
+		"modal": "La Voiture Noire",
+		"description": "The Bugatti Chiron is a mid-engine two-seater sports car designed and developed in Germany by Bugatti Engineering GmbH[6] and manufactured in Molsheim, France by French automobile manufacturer Bugatti Automobiles S.A.S. The successor to the Bugatti Veyron,[7] the Chiron was first shown at the Geneva Motor Show on 1 March 2016.[8][9] The car is based on the Bugatti Vision Gran Turismo concept car.",
+		"engine": "W16 engine",
+		"bodystyle": "2-door coupe",
+		"classtype": "Sports car",
+		"price": "$18,700,000",
+		"url": "https://cdn.luxe.digital/media/2020/12/16175751/most-expensive-cars-2021-Bugatti-La-Voiture-Noire-luxe-digital%402x.jpg"
+	}
+
+]
+
+
+
+"brand": "Kawasaki",
+"modal": "Z1000",
+"discription" : "The Kawasaki Z1000 is a four-cylinder motorcycle introduced in 2003 with streetfighter or standard styling. The Z1000 was first introduced in 1977 superseding the previous 903 cc capacity Z1/Z900."
+"engine": "Liquid-cooled, DOHC, inline four, fuel injection",
+"fueltype": "Petrol",
+"price": "2-door convertible",
+"class": "Standard",
+"price": "18 Lakh",
+"enginecapacity": "1,043 cc"
+
+
